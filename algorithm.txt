@@ -1,1 +1,28 @@
+Import Scanner Class
+Create new Scanner for input uses
+Create static methods for deposit, leave, and withdrawl.
+Ask user for their name
+Greet them by their name, and prompt for what they want to do
+If user selects deposit:
+    Ask input for how much they are depositing (cannot be a negative number)
+    return to main menu
+If user selects withdrawal:
+    Show user how much money the have
+    prompt how much to withdrawal
+    If withdrawal amount is greater than current balance, dont allow (dont allow negative numbers)
+If user selects check balance:
+    Display current balance
+
+If user selects leave:
+    Ask for print or email receipt
+    Display total withdrawn/deposited
+    Display thank you message
+    Display reminder to take/view receipt
+
+If user doesnt select leave
+    Send back to main menu after method finishes
+Else:
+    Prompt for a correct choice.
+
+
 
